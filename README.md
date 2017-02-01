@@ -1,5 +1,5 @@
-# Kaggle-Comp-Predicting-House-Prices
-Kaggle competition - house prices advanced regression techniques
+# Kaggle Competition -Predicting House Prices in Ames, Iowa
+
 
 1.1 Brief Background
 How does a home feature add up to its price tag? Ask a home buyer to describe their dream
